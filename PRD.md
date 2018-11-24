@@ -38,7 +38,7 @@
 |6.|历史记录|用户多次识别后，想要找回之前提取过的文字|次重要|
 
 ## 产品结构
-![](D:/study_hard/api/readAPP.png)
+![](https://github.com/Zhou-Yu-Jin/API_ML_AI/blob/master/images/readAPP.png)
 
 ## 使用者交互和设计
 
