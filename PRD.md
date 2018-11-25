@@ -61,3 +61,4 @@
 
 ## 不做（超范围功能）
 根据识别文字，告诉读者文本出自于哪里，在哪些地方应用过，并推荐相关知识领域的书籍
+[PRD_B](https://github.com/Zhou-Yu-Jin/API_ML_AI/blob/master/PRD_B.md)
