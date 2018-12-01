@@ -64,26 +64,28 @@
 ##### 以调用百度OCR api为例
 ###### 1. 提取整段文字
 - 输入：整段图片文字
-![](D:/图片/1.png)
+![](https://github.com/Zhou-Yu-Jin/API_ML_AI/blob/master/images/1.png)
 - 输出：可编辑的整段英文
-![](D:/图片/2.png)
+![](https://github.com/Zhou-Yu-Jin/API_ML_AI/blob/master/images/2.png)
 
 ###### 2.提取图片中的logo文字
 - 输入：场景图片
- ![](D:/图片/4.png)
+ ![](https://github.com/Zhou-Yu-Jin/API_ML_AI/blob/master/images/4.png)
 - 输出：logo文字
- ![](D:/图片/5.png)
+ ![](https://github.com/Zhou-Yu-Jin/API_ML_AI/blob/master/images/5.png)
 
 ###### 3.生僻字提取
 - 输入：不认识的生僻字
- ![](D:/图片/21.png)
+ ![](https://github.com/Zhou-Yu-Jin/API_ML_AI/blob/master/images/21.png)
 - 输出：可编辑的生僻字
- ![](D:/图片/22.png)
+ ![](https://github.com/Zhou-Yu-Jin/API_ML_AI/blob/master/images/22.png)
 ## 五、产品结构图
 ### 产品功能结构图
-![](D:/study_hard/api/readAPP.png)
+![](https://github.com/Zhou-Yu-Jin/API_ML_AI/blob/master/images/gnjgt.png)
 ### 产品信息结构图
-![]()
+![](https://github.com/Zhou-Yu-Jin/API_ML_AI/blob/master/images/xxjg.png)
+## 六、产品流程图
+![](https://github.com/Zhou-Yu-Jin/API_ML_AI/blob/master/images/lct.png)
 
 ## 不做（超范围功能）
 根据识别文字，告诉读者文本出自于哪里，在哪些地方应用过，并推荐相关知识领域的书籍
