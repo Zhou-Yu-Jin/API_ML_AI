@@ -70,15 +70,16 @@
 
 ###### 2.提取图片中的logo文字
 - 输入：场景图片
- ![](https://github.com/Zhou-Yu-Jin/API_ML_AI/blob/master/images/4.png)
+![](https://github.com/Zhou-Yu-Jin/API_ML_AI/blob/master/images/4.png)
 - 输出：logo文字
- ![](https://github.com/Zhou-Yu-Jin/API_ML_AI/blob/master/images/5.png)
+![](https://github.com/Zhou-Yu-Jin/API_ML_AI/blob/master/images/5.png)
 
 ###### 3.生僻字提取
 - 输入：不认识的生僻字
- ![](https://github.com/Zhou-Yu-Jin/API_ML_AI/blob/master/images/21.png)
+![](https://github.com/Zhou-Yu-Jin/API_ML_AI/blob/master/images/21.png)
 - 输出：可编辑的生僻字
- ![](https://github.com/Zhou-Yu-Jin/API_ML_AI/blob/master/images/22.png)
+![](https://github.com/Zhou-Yu-Jin/API_ML_AI/blob/master/images/22.png)
+
 ## 五、产品结构图
 ### 产品功能结构图
 ![](https://github.com/Zhou-Yu-Jin/API_ML_AI/blob/master/images/gnjgt.png)
