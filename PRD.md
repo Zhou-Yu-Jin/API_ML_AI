@@ -70,9 +70,9 @@
 
 ###### 2.提取图片中的logo文字
 - 输入：场景图片
-![](https://github.com/Zhou-Yu-Jin/API_ML_AI/blob/master/images/4.png)
+- ![](https://github.com/Zhou-Yu-Jin/API_ML_AI/blob/master/images/4.png)
 - 输出：logo文字
-![](https://github.com/Zhou-Yu-Jin/API_ML_AI/blob/master/images/5.png)
+- ![](https://github.com/Zhou-Yu-Jin/API_ML_AI/blob/master/images/5.png)
 
 ###### 3.生僻字提取
 - 输入：不认识的生僻字
