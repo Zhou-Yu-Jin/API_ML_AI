@@ -86,7 +86,7 @@
 ### 产品功能结构图
 ![](https://github.com/Zhou-Yu-Jin/API_ML_AI/blob/master/images/jgt.png)
 ### 产品信息结构图
-![](https://github.com/Zhou-Yu-Jin/API_ML_AI/blob/master/images/xxjg.png)
+![](https://github.com/Zhou-Yu-Jin/API_ML_AI/blob/master/images/xxjgt.png)
 ## 六、产品流程图
 ![](https://github.com/Zhou-Yu-Jin/API_ML_AI/blob/master/images/lct.png)
 ## 七、全局说明
