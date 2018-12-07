@@ -92,9 +92,14 @@
 ## 七、全局说明
 ### （一）授权登录页面
 ![](https://github.com/Zhou-Yu-Jin/API_ML_AI/blob/master/images/before.png)
-### （二）首页交互页面
-![](https://github.com/Zhou-Yu-Jin/API_ML_AI/blob/master/images/first1.png)
-
+### （二）主页交互
+![](https://github.com/Zhou-Yu-Jin/API_ML_AI/blob/master/images/11.png)
+### （三）拍照交互
+![](https://github.com/Zhou-Yu-Jin/API_ML_AI/blob/master/images/12.png)
+### （四）导入图片交互
+![](https://github.com/Zhou-Yu-Jin/API_ML_AI/blob/master/images/13.png)
+### （三）编辑交互
+![](https://github.com/Zhou-Yu-Jin/API_ML_AI/blob/master/images/14.png)
 ## 不做（超范围功能）
 根据识别文字，告诉读者文本出自于哪里，在哪些地方应用过，并推荐相关知识领域的书籍
 - [PRD_B](https://github.com/Zhou-Yu-Jin/API_ML_AI/blob/master/PRD_B.md)
