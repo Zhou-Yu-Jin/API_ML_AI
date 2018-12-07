@@ -94,7 +94,7 @@
 2. 图片二值化
 ![](https://github.com/Zhou-Yu-Jin/API_ML_AI/blob/master/images/31.png)
 3. 平滑中值去噪
-![](https://github.com/Zhou-Yu-Jin/API_ML_AI/blob/master/images/32.png)
+- ![](https://github.com/Zhou-Yu-Jin/API_ML_AI/blob/master/images/32.png)
 
 ## 五、产品结构图
 ### 产品功能结构图
