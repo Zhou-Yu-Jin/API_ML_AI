@@ -84,9 +84,7 @@
 
 ### api使用风险评估
 #### 问题：图中文字识别不全
-- 输入
 ![](https://github.com/Zhou-Yu-Jin/API_ML_AI/blob/master/images/23.jpg)
-- 输出
 ![](https://github.com/Zhou-Yu-Jin/API_ML_AI/blob/master/images/23.png)
 - 总结：目前的ocr文字提取技术对于图片的质量有一定的要求，正面照方能保证识别准确度，对于光照或角度影响导致的文字无法完全识别是眼下解决的难题，在很多时候人们拍照的时候很难保证照片的清晰度，这就给识别准确性带来挑战性，一定程度上会影响用户的体验感。
 #### 图片预处理环节
