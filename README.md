@@ -14,9 +14,9 @@
 
 |名词|说明|
 | ---------- | --- | 
-|OCR技术|OCR技术是通过扫描等光学输入方式将各种票据、报刊、书籍、文稿及其它印刷品的文字转化为图像信息，再利用文字识别技术将图像信息转化为可以使用的计算机输入技术。|
+|[OCR技术](https://baike.baidu.com/item/OCR%E6%8A%80%E6%9C%AF/15695472?fr=aladdin)|OCR技术是通过扫描等光学输入方式将各种票据、报刊、书籍、文稿及其它印刷品的文字转化为图像信息，再利用文字识别技术将图像信息转化为可以使用的计算机输入技术。|
 |深度学习|作为机器学习的新领域，其动机在于建立、模拟人脑进行分析学习的神经网络，它模仿人脑的机制来解释数据，例如图像，声音和文本。|
-|NLP|自然语言处理技术，可以支持文本关键词提取及字词检索等功能|
+|[NLP](https://baike.baidu.com/item/nlp/1515237)|自然语言处理技术，可以支持文本关键词提取及字词检索等功能|
 |NMT|神经网络机器翻译，也是当前效果最好的翻译模式|
 |SMT|统计机器翻译|
 ### （一）产品背景
@@ -63,7 +63,7 @@
 - 阿里云关键词提取api
 
 ## 四、可行性展示
-##### 以调用百度OCR api为例
+##### [以调用百度OCR api为例](http://ai.baidu.com/tech/ocr/general)
 ###### 1. 提取整段文字
 - 输入：整段图片文字
 ![](https://github.com/Zhou-Yu-Jin/API_ML_AI/blob/master/images/1.png)
@@ -81,6 +81,22 @@
 ![](https://github.com/Zhou-Yu-Jin/API_ML_AI/blob/master/images/21.png)
 - 输出：可编辑的生僻字
 ![](https://github.com/Zhou-Yu-Jin/API_ML_AI/blob/master/images/22.png)
+
+### api使用风险评估
+#### 问题：图中文字识别不全
+- 输入
+![](https://github.com/Zhou-Yu-Jin/API_ML_AI/blob/master/images/24.png)
+- 输出
+![](https://github.com/Zhou-Yu-Jin/API_ML_AI/blob/master/images/23.png)
+目前的ocr文字提取技术对于图片的质量有一定的要求，正面照方能保证识别准确度，对于光照或角度影响导致的文字无法完全识别是眼下解决的难题，在很多时候人们拍照的时候很难保证照片的清晰度，这就给识别准确性带来挑战性，一定程度上会影响用户的体验感。
+#### 图片预处理环节
+基于图片清晰度的影响，这里提出图片预处理的3个办法，若嵌入小程序中，或可减少识别失误率。
+1. 图片灰度化
+![](https://github.com/Zhou-Yu-Jin/API_ML_AI/blob/master/images/30.png)
+2. 图片二值化
+![](https://github.com/Zhou-Yu-Jin/API_ML_AI/blob/master/images/31.png)
+3. 平滑中值去噪
+![](https://github.com/Zhou-Yu-Jin/API_ML_AI/blob/master/images/32.png)
 
 ## 五、产品结构图
 ### 产品功能结构图
