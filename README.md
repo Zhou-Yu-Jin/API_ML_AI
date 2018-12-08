@@ -83,7 +83,7 @@
 ![](https://github.com/Zhou-Yu-Jin/API_ML_AI/blob/master/images/22.png)
 ### （四）[代码尝试](https://github.com/Zhou-Yu-Jin/API_ML_AI/blob/master/test.ipynb)
 - 读取图片——奖状
-![](https://github.com/Zhou-Yu-Jin/API_ML_AI/blob/master/images/jz.png)
+![](https://github.com/Zhou-Yu-Jin/API_ML_AI/blob/master/images/jz.jpg)
 - 运行代码
 ![](https://github.com/Zhou-Yu-Jin/API_ML_AI/blob/master/images/dm.png)
 - 读取结果
