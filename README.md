@@ -63,7 +63,7 @@
 - 阿里云关键词提取api
 
 ## 四、可行性展示
-##### [以调用百度OCR api为例](http://ai.baidu.com/tech/ocr/general)
+### （一）[以调用百度OCR api为例](http://ai.baidu.com/tech/ocr/general)
 ###### 1. 提取整段文字
 - 输入：整段图片文字
 ![](https://github.com/Zhou-Yu-Jin/API_ML_AI/blob/master/images/1.png)
@@ -81,13 +81,19 @@
 ![](https://github.com/Zhou-Yu-Jin/API_ML_AI/blob/master/images/21.png)
 - 输出：可编辑的生僻字
 ![](https://github.com/Zhou-Yu-Jin/API_ML_AI/blob/master/images/22.png)
-
-### api使用风险评估
+### （四）[代码尝试](https://github.com/Zhou-Yu-Jin/API_ML_AI/blob/master/test.ipynb)
+- 读取图片——奖状
+![](https://github.com/Zhou-Yu-Jin/API_ML_AI/blob/master/images/jz.png)
+- 运行代码
+![](https://github.com/Zhou-Yu-Jin/API_ML_AI/blob/master/images/dm.png)
+- 读取结果
+![](https://github.com/Zhou-Yu-Jin/API_ML_AI/blob/master/images/dm1.png)
+### （三）api使用风险评估
 #### 问题：图中文字识别不全
 ![](https://github.com/Zhou-Yu-Jin/API_ML_AI/blob/master/images/23.jpg)
 ![](https://github.com/Zhou-Yu-Jin/API_ML_AI/blob/master/images/23.png)
 - 总结：目前的ocr文字提取技术对于图片的质量有一定的要求，正面照方能保证识别准确度，对于光照或角度影响导致的文字无法完全识别是眼下解决的难题，在很多时候人们拍照的时候很难保证照片的清晰度，这就给识别准确性带来挑战性，一定程度上会影响用户的体验感。
-#### 图片预处理环节
+#### 解决方式：图片预处理环节
 基于图片清晰度的影响，这里提出图片预处理的3个办法，若嵌入小程序中，或可减少识别失误率。
 1. 图片灰度化
 ![](https://github.com/Zhou-Yu-Jin/API_ML_AI/blob/master/images/30.png)
