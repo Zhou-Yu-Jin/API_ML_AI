@@ -67,6 +67,7 @@
 - 除了最基本的文字识别提取之外，小程序中会加入语言翻译功能，用户可根据自我需求设置想要的识别语言。
 
 <h2 id="chapter5">三、需求分析（需求列表与人工智能API加值）</h2>
+
 |#|功能|用户案例|重要程度|技术领域|
 | ---------- | --- | --- | --- |--- |
 |1.|文字提取|阅读纸质版书籍或是图片中文字无法获取又不想手打的时候|重要|OCR|
@@ -109,10 +110,12 @@
 ![](https://github.com/Zhou-Yu-Jin/API_ML_AI/blob/master/images/dm1.png)
 
 <h3 id="chapter11">API使用风险评估</h3>
+
 #### 问题：图中文字识别不全
 ![](https://github.com/Zhou-Yu-Jin/API_ML_AI/blob/master/images/23.jpg)
 ![](https://github.com/Zhou-Yu-Jin/API_ML_AI/blob/master/images/23.png)
 - 总结：目前的ocr文字提取技术对于图片的质量有一定的要求，正面照方能保证识别准确度，对于光照或角度影响导致的文字无法完全识别是眼下解决的难题，在很多时候人们拍照的时候很难保证照片的清晰度，这就给识别准确性带来挑战性，一定程度上会影响用户的体验感。
+
 #### 解决方式：图片预处理环节
 基于图片清晰度的影响，这里提出图片预处理的3个办法，若嵌入小程序中，或可减少识别失误率。
 1. 图片灰度化
@@ -121,6 +124,7 @@
 ![](https://github.com/Zhou-Yu-Jin/API_ML_AI/blob/master/images/31.png)
 3. 平滑中值去噪
 - ![](https://github.com/Zhou-Yu-Jin/API_ML_AI/blob/master/images/32.png)
+
 ## 原型部分
 
 <h3 id="chapter7">信息设计</h3>
