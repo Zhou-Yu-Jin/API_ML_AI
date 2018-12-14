@@ -153,8 +153,8 @@
 ![](https://github.com/Zhou-Yu-Jin/API_ML_AI/blob/master/images/14.png)
 ![](https://github.com/Zhou-Yu-Jin/API_ML_AI/blob/master/images/16.png)
 ><h3 id="chapter8">原型文档</h3>
-[完整的原型文档](https://zhou-yu-jin.github.io/final/#g=1&p=%E4%BA%A4%E4%BA%92%E9%80%BB%E8%BE%91%E9%A1%B5)
-[核心功能视频展示](https://github.com/Zhou-Yu-Jin/API_ML_AI/blob/master/1.mp4)
+- [完整的原型文档](https://zhou-yu-jin.github.io/final/#g=1&p=%E4%BA%A4%E4%BA%92%E9%80%BB%E8%BE%91%E9%A1%B5)
+- [核心功能视频展示](https://github.com/Zhou-Yu-Jin/API_ML_AI/blob/master/1.mp4)
 ## 不做（超范围功能）
 根据识别文字，告诉读者文本出自于哪里，在哪些地方应用过，并推荐相关知识领域的书籍
 - [PRD_B](https://github.com/Zhou-Yu-Jin/API_ML_AI/blob/master/PRD_B.md)
