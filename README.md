@@ -79,7 +79,7 @@
 - 阿里云关键词提取api
 
 ## 四、可行性展示（API 产品使用关键AI或机器学习之API的输出入展示 ）
-<h3 id="chapter9">使用水平展示</h3>
+><h3 id="chapter9">使用水平展示</h3>
 
 ### （一）[以调用百度OCR api为例](http://ai.baidu.com/tech/ocr/general)
 
@@ -127,7 +127,7 @@
 
 ## 原型部分
 
-<h3 id="chapter7">信息设计</h3>
+><h3 id="chapter7">信息设计</h3>
 
 ## 五、产品结构图
 ### 产品功能结构图
