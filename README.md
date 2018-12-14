@@ -78,8 +78,8 @@
 - 百度OCR文字识别api
 - 阿里云关键词提取api
 
-## 四、可行性展示（API 产品使用关键AI或机器学习之API的输出入展示 ）
-><h3 id="chapter9">使用水平展示</h3>
+
+><h2 id="chapter9"> 四、可行性展示（API 产品使用关键AI或机器学习之API的输出入展示 ）</h2>
 
 ### （一）[以调用百度OCR api为例](http://ai.baidu.com/tech/ocr/general)
 
