@@ -80,6 +80,7 @@
 ## 四、可行性展示（API 产品使用关键AI或机器学习之API的输出入展示 ）
 <h3 id="chapter9">使用水平展示</h3>
 ### （一）[以调用百度OCR api为例](http://ai.baidu.com/tech/ocr/general)
+
 ###### 1. 提取整段文字
 - 输入：整段图片文字
 ![](https://github.com/Zhou-Yu-Jin/API_ML_AI/blob/master/images/1.png)
@@ -97,6 +98,7 @@
 ![](https://github.com/Zhou-Yu-Jin/API_ML_AI/blob/master/images/21.png)
 - 输出：可编辑的生僻字
 ![](https://github.com/Zhou-Yu-Jin/API_ML_AI/blob/master/images/22.png)
+
 ### （二）[代码尝试](https://github.com/Zhou-Yu-Jin/API_ML_AI/blob/master/test.ipynb)
 - 读取图片——奖状
 ![](https://github.com/Zhou-Yu-Jin/API_ML_AI/blob/master/images/jz.jpg)
