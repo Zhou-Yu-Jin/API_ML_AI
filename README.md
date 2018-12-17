@@ -109,7 +109,7 @@
 - 读取结果
 ![](https://github.com/Zhou-Yu-Jin/API_ML_AI/blob/master/images/dm1.png)
 
-<h3 id="chapter10">API使用比较分析</h3>
+<h3 id="chapter10">（三）API使用比较分析</h3>
 
 - 搜狗 OCR API：这个接口识别效果很好，速度、准确率都没的说！但其对于图片的尺寸有规定，较小的文字无法识别
 - 百度 OCR API：其识别的精确度很好，但是标点符号识别不太准确，速度一般，可以接受，但不如搜狗 OCR API。
@@ -117,7 +117,7 @@
 - 有道 OCR API：速度很快，平均 0.3-0.4 秒就可识别出来，但是接口有 IP 请求的限制，一段时间内识别次数太多就不行了。
 总结：综上比较，从识别速度，识别准确度以及识别次数等方面综合考量，选择使用百度OCR API。
 
-<h3 id="chapter11">API使用风险评估</h3>
+<h3 id="chapter11">（四）API使用风险评估</h3>
 
 #### 问题：图中文字识别不全
 ![](https://github.com/Zhou-Yu-Jin/API_ML_AI/blob/master/images/23.jpg)
