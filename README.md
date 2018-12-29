@@ -85,27 +85,27 @@
 
 ###### 1. 提取整段文字
 - 输入：整段图片文字
-![](https://github.com/Zhou-Yu-Jin/API_ML_AI/blob/master/images/1.png)
+<br/>![](https://github.com/Zhou-Yu-Jin/API_ML_AI/blob/master/images/1.png)</br>
 - 输出：可编辑的整段英文
-![](https://github.com/Zhou-Yu-Jin/API_ML_AI/blob/master/images/2.png)
+<br/>![](https://github.com/Zhou-Yu-Jin/API_ML_AI/blob/master/images/2.png)</br>
 
 ###### 2.提取图片中的logo文字
 - 输入：场景图片
-![](https://github.com/Zhou-Yu-Jin/API_ML_AI/blob/master/images/4.png)
+<br/>![](https://github.com/Zhou-Yu-Jin/API_ML_AI/blob/master/images/4.png)</br>
 - 输出：logo文字
-![](https://github.com/Zhou-Yu-Jin/API_ML_AI/blob/master/images/5.png)
+<br/>![](https://github.com/Zhou-Yu-Jin/API_ML_AI/blob/master/images/5.png)</br>
 
 ###### 3.生僻字提取
 - 输入：不认识的生僻字
-![](https://github.com/Zhou-Yu-Jin/API_ML_AI/blob/master/images/21.png)
+<br/>![](https://github.com/Zhou-Yu-Jin/API_ML_AI/blob/master/images/21.png)</br>
 - 输出：可编辑的生僻字
-![](https://github.com/Zhou-Yu-Jin/API_ML_AI/blob/master/images/22.png)
+<br/>![](https://github.com/Zhou-Yu-Jin/API_ML_AI/blob/master/images/22.png)</br>
 
 ### （二）[代码尝试](https://github.com/Zhou-Yu-Jin/API_ML_AI/blob/master/test.ipynb)
 - 读取图片——奖状
-![](https://github.com/Zhou-Yu-Jin/API_ML_AI/blob/master/images/jz.jpg)
+<br/>![](https://github.com/Zhou-Yu-Jin/API_ML_AI/blob/master/images/jz.jpg)</br>
 - 运行代码
-![](https://github.com/Zhou-Yu-Jin/API_ML_AI/blob/master/images/dm.png)
+<br/>![](https://github.com/Zhou-Yu-Jin/API_ML_AI/blob/master/images/dm.png)</br>
 - 读取结果
 <br/>![](https://github.com/Zhou-Yu-Jin/API_ML_AI/blob/master/images/dm1.png)</br>
 
